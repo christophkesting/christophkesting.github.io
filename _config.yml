@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Your Name / Site Title"
+title                    : "Christoph Kesting"
 title_separator          : "-"
-name                     : &name "Christoph Kesting Name"
-description              : &description "personal description"
+name                     : &name "Christoph Kesting"
+description              : &description " a human in math "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christophkesting/christophkesting.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "PhD-Student in Model Theory"
   location         : "Hamilton, ON, Canada"
   employer         : "McMaster University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  
   uri              :
