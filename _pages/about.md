@@ -12,5 +12,7 @@ Hello
 
 I'm Christoph and I am a PhD-Student at McMaster University studying mathematical logic, model theory, real algebraic geometry and differential algebra. 
 
+This website is still work in progress.
+
 Feel free to send me an email :) 
 
