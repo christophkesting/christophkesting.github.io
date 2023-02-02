@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Münster, 2018
-* M.S. in Mathematics, University of Münster, 2020
 * Grad-student in Mathematics, McMaster University, since 2021
+* M.S. in Mathematics, University of Münster, 2020
+* B.S. in Mathematics, University of Münster, 2018
 
 <!---
 Work experience
