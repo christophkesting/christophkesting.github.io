@@ -87,7 +87,7 @@ author:
   employer         : "McMaster University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "kestingc at mcmcaster dot ca"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -134,7 +134,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - READMEem
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
