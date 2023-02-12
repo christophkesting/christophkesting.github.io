@@ -1,0 +1,15 @@
+---
+title: "TAing in Münster"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/muenster
+venue: "University of Münster"
+date: 2023-01-01
+location: "Münster, Germany"
+---
+# Teaching during my studies at Universtiy of Münster
+
+- Tutor for Analysis for Computer Scientists - Winter term 2018
+- Tutor for Linear Algebra I - Winter term 2019
+- Tutor for the Mathematical Preparatory Course - September 2020
+- Tutor for Theory of Computation - Winter term 2020
