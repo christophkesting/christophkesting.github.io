@@ -1,7 +1,7 @@
 ---
 title: "TAing in Münster"
 collection: teaching
-type: "Undergraduate course"
+type: "TAing"
 permalink: /teaching/muenster
 venue: "University of Münster"
 date: 2023-01-01
