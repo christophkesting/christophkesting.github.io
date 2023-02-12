@@ -4,7 +4,7 @@ collection: teaching
 type: "TAing"
 permalink: /teaching/muenster
 venue: "University of Münster"
-date: 2023-01-01
+date: 2020-01-01
 location: "Münster, Germany"
 ---
 # Teaching at the University of Münster
