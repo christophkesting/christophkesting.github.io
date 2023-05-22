@@ -1,12 +1,11 @@
 ---
-title: "I'm working on it"
+title: "A dichotomy for T-convex fields with monomial group"
 collection: publications
 permalink: /publication/placeholder
-excerpt: 'There will be some here in the future. I promise.'
-date: 2023-02-02
+excerpt: ' Joint work with Elliot Kaplan' 
+date: 2023-05-12
 venue: 'Some math Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-There will be some here in the future. I promise.
+paperurl: 'https://arxiv.org/abs/2305.07749'
 
+---
+We prove a dichotomy for o-minimal fields R, expanded by a T-convex valuation ring (where T is the theory of R) and a compatible monomial group. We show that if T is power bounded, then this expansion of R is model complete (assuming that T is), it has a distal theory, and the definable sets are geometrically tame. On the other hand, if R defines an exponential function, then the natural numbers are externally definable in our expansion, precluding any sort of model theoretic tameness. 
