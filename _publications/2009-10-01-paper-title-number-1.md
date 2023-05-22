@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/placeholder
 excerpt: ' Joint work with Elliot Kaplan' 
 date: 2023-05-12
-venue: 'arxiv preprint/submitted'
+venue: 'arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2305.07749'
 
 ---
