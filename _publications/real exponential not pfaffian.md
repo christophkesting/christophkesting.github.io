@@ -1,0 +1,11 @@
+---
+title: "The Klein j-Function is not Pfaffian over the Real Exponential Field"
+collection: publications
+permalink: /publication/placeholder
+excerpt: ' ' 
+date: 2023-05-12
+venue: 'arxiv preprint'
+paperurl: 'https://arxiv.org/abs/2311.06980'
+
+---
+James Freitag showed that the Klein j-function is not paffian over the complex numbers. We expand on this result by showing that a restriction of the Klein j-function to the imaginary interval (0, i) is not pfaffian over the real field exponential field in the sense of Miller and Speissegger. 
