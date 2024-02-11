@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christoph Kesting"
-  avatar           : "Profile.png"
+  avatar           : "profile.png"
   bio              : "PhD-Student in Model Theory"
   location         : "Hamilton, ON, Canada"
   employer         : "McMaster University"
