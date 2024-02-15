@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Academic Website"
+title: "Christoph Kesting"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,6 @@ redirect_from:
 
 Hello
 
-I'm Christoph and I am a PhD-Student at McMaster University studying mathematical logic, model theory, real algebraic geometry and differential algebra. 
+I'm Christoph and I am a Ph.D. student at McMaster University supervised by Patrick Speissegger. I study mathematical logic, model theory, real algebraic geometry and differential algebra. 
 
-This website is still work in progress.
-
-Feel free to send me an email :) 
 
