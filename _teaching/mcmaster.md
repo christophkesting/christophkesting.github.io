@@ -13,4 +13,5 @@ location: "Hamilton, Canada"
 - Teaching Assistant for MATH-1C03, Introduction to Proof - Fall 2022
 - Grader for MATH-2XX3, Advanced Calculus II - Winter 2023
 - Teaching Assistant for MATH-3IA3 - Fall 2023
-- Teaching Assistant for MATH-3IA3 - Winter 2023
+- Teaching Assistant for MATH-3IA3 - Winter 2024
+- Teaching Assistant for MATH-3IA3 - Fall 2024
