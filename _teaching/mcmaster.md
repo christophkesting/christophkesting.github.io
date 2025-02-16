@@ -15,3 +15,4 @@ location: "Hamilton, Canada"
 - Teaching Assistant for MATH-3IA3 - Fall 2023
 - Teaching Assistant for MATH-3IA3 - Winter 2024
 - Teaching Assistant for MATH-3IA3 - Fall 2024
+- Teaching Assistant for MATH-3IA3 - Winter 2025
