@@ -16,3 +16,4 @@ location: "Hamilton, Canada"
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Winter 2024
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Fall 2024
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Winter 2025
+- Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Fall 2025
