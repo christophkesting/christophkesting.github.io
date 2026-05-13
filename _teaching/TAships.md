@@ -8,12 +8,10 @@ date: 2026-05-01
 location: "Münster, Germany and Hamilton, Canada"
 ---
 # At the University of Münster
-
 - Tutor for Analysis for Computer Scientists - Winter term 2018
 - Tutor for Linear Algebra I - Winter term 2019
 - Tutor for the Mathematical Preparatory Course - September 2020
 - Tutor for Theory of Computation - Winter Term 2020
-
 # At McMaster University
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Fall 2021
 - Grader for MATH-1C03 - Introduction to Proofs - Winter 2022
