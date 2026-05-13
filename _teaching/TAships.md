@@ -2,10 +2,10 @@
 title: "Teaching Assistantships"
 collection: teaching
 type: "TAing"
-permalink: /teaching/mcmaster
-venue: "McMaster, Department of Mathematics and Statistics"
-date: 2023-01-02
-location: "Hamilton, Canada"
+permalink: /teaching/taships
+venue: "University of Münster and McMaster University"
+date: 2026-05-01
+location: "Münster, Germany and Hamilton, Canada"
 ---
 # At the University of Münster
 
