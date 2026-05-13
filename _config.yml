@@ -83,8 +83,8 @@ author:
   name             : "Christoph Kesting"
   avatar           : "IMG_20240207_144402.png"
   bio              : "PhD in Model Theory"
-  location         : "Hamilton, ON, Canada"
-  employer         : "McMaster University"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "kestingc at mcmcaster dot ca"
