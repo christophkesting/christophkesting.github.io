@@ -1,5 +1,5 @@
 ---
-title: "Teaching at McMaster past and current"
+title: "Teaching Assistantships"
 collection: teaching
 type: "TAing"
 permalink: /teaching/mcmaster
@@ -7,7 +7,14 @@ venue: "McMaster, Department of Mathematics and Statistics"
 date: 2023-01-02
 location: "Hamilton, Canada"
 ---
-# Teaching at McMaster past and current
+# At the University of Münster
+
+- Tutor for Analysis for Computer Scientists - Winter term 2018
+- Tutor for Linear Algebra I - Winter term 2019
+- Tutor for the Mathematical Preparatory Course - September 2020
+- Tutor for Theory of Computation - Winter Term 2020
+
+# At McMaster University
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Fall 2021
 - Grader for MATH-1C03 - Introduction to Proofs - Winter 2022
 - Teaching Assistant for MATH-1C03 -  Introduction to Proof - Fall 2022
@@ -18,3 +25,5 @@ location: "Hamilton, Canada"
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Winter 2025
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Fall 2025
 - Teaching Assistant for MATH-3IA3 - Introduction to Analysis - Winter 2026
+
+
