@@ -15,6 +15,6 @@ a real restriction of the Klein j-function is not Rexp-definable, indicating tha
 extensions are insufficient for certain applications in number theory' 
 date: 2026-04-26
 venue: ' '
-paperurl: 'files/Christoph Kesting PhD Thesis.pdf'
+paperurl: 'christophkesting.github.io/files/Christoph Kesting PhD Thesis.pdf'
 
 ---
