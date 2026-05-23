@@ -14,7 +14,7 @@ solutions to a triangular system of order one differential equations) and show t
 a real restriction of the Klein j-function is not Rexp-definable, indicating that these
 extensions are insufficient for certain applications in number theory' 
 date: 2026-04-26
-venue: ' '
+venue: 'Macsphere'
 paperurl: 'https://christophkesting.github.io/files/Christoph Kesting PhD Thesis.pdf'
 
 ---
